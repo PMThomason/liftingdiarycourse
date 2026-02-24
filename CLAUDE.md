@@ -20,9 +20,10 @@ There is no test runner configured.
 - **Tailwind CSS v4** (via `@tailwindcss/postcss`)
 
 ## Code Generation Guidelines
-IMPORTANT: Before generating any code, always first check the `/docs` directory for relevant documentation files and follow the guidance found there.
+IMPORTANT: Before generating any code, always first check the `/docs` directory for relevant documentation files and follow the guidance found there:
 
 - /docs/ui.md
+- /docs/data-fetching.md
 
 ## Architecture
 
