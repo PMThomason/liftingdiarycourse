@@ -19,6 +19,11 @@ There is no test runner configured.
 - **TypeScript** with strict mode enabled
 - **Tailwind CSS v4** (via `@tailwindcss/postcss`)
 
+## Code Generation Guidelines
+IMPORTANT: Before generating any code, always first check the `/docs` directory for relevant documentation files and follow the guidance found there.
+
+- /docs/ui.md
+
 ## Architecture
 
 This is a fresh `create-next-app` scaffold — no application logic has been built yet. The entry point is `src/app/page.tsx` and the root layout (fonts, global CSS) lives in `src/app/layout.tsx`.
